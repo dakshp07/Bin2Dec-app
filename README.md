@@ -1,6 +1,12 @@
-# b2capp
+## Bin2Dec App
 
-A new Flutter application.
+Binary To Decimal and Decimal To Binary Converter App Made Using Dart And Flutter.
+
+## Images
+
+![First](images/Screenshot_1593094372.png)
+
+![Second](images/Screenshot_1593094409.png)
 
 ## Getting Started
 
